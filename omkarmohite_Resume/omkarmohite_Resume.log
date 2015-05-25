@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 07:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.22)  25 MAY 2015 08:11
 entering extended mode
 **omkarmohite_Resume.tex
 (C:\Users\Raju\omkarmohite_Resume\omkarmohite_Resume\omkarmohite_Resume.tex
@@ -173,23 +173,28 @@ Overfull \hbox (9.10309pt too wide) in paragraph at lines 17--18
 [][] 
  []
 
+
+Overfull \hbox (7.15196pt too wide) in paragraph at lines 21--26
+[]$[]$ 
+ []
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Raju/omkarmohite
 _Resume/omkarmohite_Resume/images/IMG-20140509-WA0002.jpg>]
 (C:\Users\Raju\omkarmohite_Resume\omkarmohite_Resume\omkarmohite_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1633 strings out of 493921
- 22822 string characters out of 3144879
+ 1636 strings out of 493921
+ 22863 string characters out of 3144879
  78256 words of memory out of 3000000
- 4950 multiletter control sequences out of 15000+200000
- 8509 words of font info for 30 fonts, out of 3000000 for 9000
+ 4953 multiletter control sequences out of 15000+200000
+ 9115 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,32p,272b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
 <
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on omkarmohite_Resume.pdf (1 page, 54836 bytes).
+Output written on omkarmohite_Resume.pdf (1 page, 56928 bytes).
 PDF statistics:
  15 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
